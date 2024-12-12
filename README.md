@@ -1,8 +1,8 @@
-# 张伟豪 (Zhang Weihao)
+# zhangweihao
 
 ### 🏋️‍♂️💻 | ☕📚 | 🎨🌐
 
-####  <img src="https://cdn.discordapp.com/emojis/491270848032800768.png?size=128" style="width:24px;"> Contact  
+####  💻Contact  
 - **Email:** `zhangweihao@example.com`
 - **GitHub:** [Zhangwhhoumiandoushixiadade](https://github.com/Zhangwhhoumiandoushixiadade)  
 - **Blog:** [zhangweihao.com](https://zhangweihao.com)  
