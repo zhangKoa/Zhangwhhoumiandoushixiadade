@@ -13,14 +13,6 @@
 <details>
   <summary><b> ✨ About Me</b></summary>
 
-#### 👋 Hi there!
-
-I'm a research graduate specializing in **medical image analysis**. When I'm not debugging neural networks or fine-tuning hyperparameters, you'll find me at the gym hitting my fitness goals. Coding, fitness, and coffee power my everyday life.  
-
-**What I do during the day**:  
-- Developing innovative deep learning models for medical imaging tasks.  
-- Crafting efficient, elegant solutions for complex problems in AI and beyond.  
-
 **What I enjoy in my free time**:  
 - Building side projects that combine tech and creativity.  
 - Creating Vlogs about fitness, coding, and the journey of personal growth.
