@@ -8,9 +8,8 @@
 
 ####  <img src="https://cdn.discordapp.com/emojis/491270848032800768.png?size=128" style="width:24px;"> Contact  
 
-- Email: `hi[@]seviche.cc`
-- Matrix: [@seviche:kongwoo.icu](https://matrix.to/#/@seviche:kongwoo.icu)
-- Blog: [seviche.cc](https://seviche.cc) 
+- Email: ``
+- Blog: [zhangweihao.com) 
   ( Please feel free to leave your comments :D 
 
 
