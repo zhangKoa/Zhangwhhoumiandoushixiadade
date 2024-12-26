@@ -8,7 +8,7 @@
 
 <span style="color:#FF69B4;">💻 Java back-end programmer, pursuing AI master's. Focus on enhancing skills, engage in enterprise projects.</span> 
 <br>
-<span style="color:#FF69B4;">🏢 Eager to collaborate on Java EE, microservices, database optimization and AI projects.</span> 
+<span style="color:#FF69B4;">🏢 Eager to collaborate on microservices and  AI projects.</span> 
 <br>
 <span style="color:#FF69B4;">🏋️ Passionate about fitness and coding. Workout for stress relief, enjoy solving coding puzzles in spare time.</span> 
 
