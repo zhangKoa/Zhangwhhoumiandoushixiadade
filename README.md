@@ -7,13 +7,9 @@
 ## <span style="color:#FF69B4;">👋 Hi there</span> 
 
 <span style="color:#FF69B4;">💻 I'm a Java back-end programmer and currently pursuing a master's degree in artificial intelligence. I'm focused on improving my Java development skills and involved in various enterprise-level projects.</span> 
-
 <br>
-
 <span style="color:#FF69B4;">🏢 I'm eager to collaborate on projects related to Java EE applications, microservices architecture, database optimization, as well as those in the field of artificial intelligence.</span> 
-
 <br>
-
 <span style="color:#FF69B4;">🏋️ I'm passionate about fitness and programming. In my spare time, I work out to relieve stress and also enjoy delving into code to solve complex problems.</span> 
 
 
