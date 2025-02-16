@@ -15,12 +15,28 @@
 
 ---
 
-### 📊 **GitHub Statistics**
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zhangwhhoumiandoushixiadade&show_icons=true&theme=dark" height="150">
-    <img src="https://streak-stats.demolab.com/?user=Zhangwhhoumiandoushixiadade&theme=dark" height="150">
-</div>
+
+## 📊 GitHub Statistics
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhangwhhoumiandoushixiadade&layout=compact&theme=dark" height="150">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Zhangwhhoumiandoushixiadade">
+          <img src="https://github-readme-stats.vercel.app/api?username=Zhangwhhoumiandoushixiadade&show_icons=true&theme=transparent" width="400px">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Zhangwhhoumiandoushixiadade">
+          <img src="https://streak-stats.demolab.com/?user=Zhangwhhoumiandoushixiadade&theme=transparent" width="400px">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <a href="https://github.com/Zhangwhhoumiandoushixiadade">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhangwhhoumiandoushixiadade&layout=compact&theme=transparent" width="500px">
+  </a>
 </div>
