@@ -19,7 +19,7 @@
 
 ## 🚀 Statistics
 <!-- 假设你实际的 GitHub 用户名是 Zhang，以下链接和参数需要对应修改 -->
-[[![Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang&show_icons=true)](https://github.com/Zhang/) ](https://github.com/Zhangwhhoumiandoushixiadade)
+[[![Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang&show_icons=true)](https://github.com/Zhang/) ]
 
 [//]: # ([![GitHub Streak]&#40;https://streak-stats.demolab.com/?user=Zhang&#41;]&#40;https://github.com/Zhang&#41;)
 
