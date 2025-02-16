@@ -4,7 +4,6 @@
     </a>
 </div>
 
----
 
 ## 👋 **Hello!**
 ### 💻 **Java Backend Developer** | 🎓 **AI Master's Student** | 🏋️ **Fitness Enthusiast**  
