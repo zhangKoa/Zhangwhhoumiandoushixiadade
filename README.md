@@ -6,12 +6,12 @@
 
 ---
 
-### 👋 **Hi there!**
-💻 **Java 后端开发** | 🎓 **AI 研究生** | 🏋️ **健身爱好者**  
+### 👋 **Hello!**
+💻 **Java Backend Developer** | 🎓 **AI Master's Student** | 🏋️ **Fitness Enthusiast**  
 
-- 🔍 **专注提升技能，参与企业级项目**  
-- 🤝 **欢迎交流微服务架构 & AI 相关话题**  
-- 🎯 **健身 & 编程双管齐下，享受挑战**
+- 🚀 Passionate about **backend development, AI, and system architecture**  
+- 🤝 Open to **collaborations on microservices & AI projects**  
+- 🎯 Fitness and coding go hand in hand – **train hard, code harder!**  
 
 ---
 
